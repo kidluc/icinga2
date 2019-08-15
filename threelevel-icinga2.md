@@ -1,3 +1,6 @@
+# Lưu ý
+Với Ubuntu 18+, phải upgrade server + install maintainer version package thì khi cài icinga2 mới không bị lỗi.
+
 # Mô hình
 
 # Cấu hình
